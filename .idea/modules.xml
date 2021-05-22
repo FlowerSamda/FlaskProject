@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/FlaskProject.iml" filepath="$PROJECT_DIR$/.idea/FlaskProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Terra/MirrorRoomApp/.idea/MirrorRoomApp.iml" filepath="$PROJECT_DIR$/../Terra/MirrorRoomApp/.idea/MirrorRoomApp.iml" />
     </modules>
   </component>
 </project>

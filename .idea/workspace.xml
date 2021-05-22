@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30332139-e1a2-423d-86b3-c20a3326d642" name="Default Changelist" comment="Auth Testing까지 구현 완료">
-      <change afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_blog.py" afterDir="false" />
+    <list default="true" id="30332139-e1a2-423d-86b3-c20a3326d642" name="Default Changelist" comment="Pytest 구현 끝. 베이스로 MirrorRoom시작">
+      <change beforePath="$PROJECT_DIR$/.idea/FlaskProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FlaskProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -36,12 +37,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/flaskr/__init__.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Terra/MirrorRoomApp" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Terra\MirrorRoomApp\static" />
+      <recent name="C:\Terra\MirrorRoomApp\templates\main" />
+      <recent name="C:\Terra\MirrorRoomApp" />
       <recent name="C:\FlaskProject" />
       <recent name="C:\FlaskProject\flaskr" />
     </key>
@@ -85,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621608599877</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Pytest 구현 끝. 베이스로 MirrorRoom시작">
+      <created>1621651994002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621651994002</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Auth Testing까지 구현 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="Auth Testing까지 구현 완료" />
+    <MESSAGE value="Pytest 구현 끝. 베이스로 MirrorRoom시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pytest 구현 끝. 베이스로 MirrorRoom시작" />
   </component>
 </project>
