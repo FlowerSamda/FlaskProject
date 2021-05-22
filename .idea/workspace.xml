@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30332139-e1a2-423d-86b3-c20a3326d642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MANIFEST.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/blog/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/blog/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_factory.py" afterDir="false" />
+    <list default="true" id="30332139-e1a2-423d-86b3-c20a3326d642" name="Default Changelist" comment="Auth Testing까지 구현 완료">
+      <change afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_blog.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/blog.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/blog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instance/flaskr.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/instance/flaskr.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +20,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1snlcpxdxEhnnyWIpd9XAffvDi8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,6 +78,14 @@
       <option name="presentableId" value="Default" />
       <updated>1621516316531</updated>
     </task>
+    <task id="LOCAL-00001" summary="Auth Testing까지 구현 완료">
+      <created>1621608599877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621608599877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +99,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Auth Testing까지 구현 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="Auth Testing까지 구현 완료" />
   </component>
 </project>
